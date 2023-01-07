@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1673084263195,23119,HTTP Request,200,OK,Thread Group 1-5,text,true,,296068,124,10,10,https://eticket.railway.gov.bd/,8991,0,1504
+1673084263374,31041,HTTP Request,200,OK,Thread Group 1-7,text,true,,296095,124,9,9,https://eticket.railway.gov.bd/,6218,0,1744
+1673084263683,30854,HTTP Request,200,OK,Thread Group 1-10,text,true,,296068,124,8,8,https://eticket.railway.gov.bd/,3162,0,991
+1673084263046,35632,HTTP Request,200,OK,Thread Group 1-2,text,true,,296071,124,7,7,https://eticket.railway.gov.bd/,6261,0,1653
+1673084263295,35657,HTTP Request,200,OK,Thread Group 1-6,text,true,,296071,124,6,6,https://eticket.railway.gov.bd/,9574,0,2644
+1673084263589,40649,HTTP Request,200,OK,Thread Group 1-9,text,true,,296077,124,5,5,https://eticket.railway.gov.bd/,10002,0,2435
+1673084263046,41376,HTTP Request,200,OK,Thread Group 1-1,text,true,,296103,124,4,4,https://eticket.railway.gov.bd/,13956,0,3175
+1673084263481,41016,HTTP Request,200,OK,Thread Group 1-8,text,true,,296099,124,3,3,https://eticket.railway.gov.bd/,13622,0,2224
+1673084263046,41749,HTTP Request,200,OK,Thread Group 1-3,text,true,,296079,124,2,2,https://eticket.railway.gov.bd/,7174,0,2772
+1673084263084,41902,HTTP Request,200,OK,Thread Group 1-4,text,true,,296070,124,1,1,https://eticket.railway.gov.bd/,6154,0,1734
